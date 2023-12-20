@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/linhao/code/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/printhello.dir/libHelloWorld.cpp.o -c /home/linhao/code/helloworld/libHelloWorld.cpp",
+  "file": "/home/linhao/code/helloworld/libHelloWorld.cpp"
+},
+{
+  "directory": "/home/linhao/code/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/Demo.dir/useHello.cpp.o -c /home/linhao/code/helloworld/useHello.cpp",
+  "file": "/home/linhao/code/helloworld/useHello.cpp"
+}
+]

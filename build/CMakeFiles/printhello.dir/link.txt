@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprinthello.a CMakeFiles/printhello.dir/libHelloWorld.cpp.o
+/usr/bin/ranlib libprinthello.a

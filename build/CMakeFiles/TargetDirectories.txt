@@ -1,0 +1,4 @@
+/home/linhao/code/build/CMakeFiles/printhello.dir
+/home/linhao/code/build/CMakeFiles/Demo.dir
+/home/linhao/code/build/CMakeFiles/edit_cache.dir
+/home/linhao/code/build/CMakeFiles/rebuild_cache.dir
