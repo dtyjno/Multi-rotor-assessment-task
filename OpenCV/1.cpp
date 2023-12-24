@@ -1,5 +1,5 @@
 #include<iostream>
-#include<opencv2/opencv.hpp>
+#include </usr/local/include/opencv4/opencv2/opencv.hpp>
 
 using namespace cv;
 
@@ -20,7 +20,7 @@ int main()
         while(1)
         {
             cap >> frame;
-            cvtColor(frame, edge, COLOR_BGR2GRAY);
+            //cvtColor(frame, edge, COLOR_BGR2GRAY);
             GaussianBlur(edge, edge, Size(7, 7), 1.5, 1.5);
             Canny(edge, edge, 0, 30, 3);
             imshow("edges", edge);
